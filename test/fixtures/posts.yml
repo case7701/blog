@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  title: First Post
+  author: Casey
+  body: Hello there...
+
+two:
+  title: Second Post
+  author: Casey
+  body: text goes here
